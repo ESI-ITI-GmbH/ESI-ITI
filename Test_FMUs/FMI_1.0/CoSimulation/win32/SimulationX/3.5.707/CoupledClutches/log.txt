@@ -1,0 +1,219 @@
+[VERBOSE][FMUCHK] Setting log level to [VERBOSE]
+[INFO][FMUCHK] Will process FMU C:\ITI-Projekte\FMI Cross-Check\ModelExport\CoSimulation\Models\CoupledClutches\Exports\CoupledClutches.fmu
+[VERBOSE][FMILIB] Allocating FMIL context
+[VERBOSE][FMILIB] Detecting FMI standard version
+[VERBOSE][FMIZIP] Unpacking FMU into C:\Users\BASTIA~1.BIN\AppData\Local\Temp/fmutmpa01688
+[VERBOSE][FMIXML] Parsing XML to detect FMI standard version
+[VERBOSE][FMIXML] XML specifies FMI 1.0
+[INFO][FMILIB] XML specifies FMI standard version 1.0
+[VERBOSE][FMILIB] Parsing model description XML
+[VERBOSE][FMI1XML] Parsing XML element fmiModelDescription
+[VERBOSE][FMI1XML] Parsing XML element ModelVariables
+[VERBOSE][FMI1XML] Checking alias information
+[VERBOSE][FMI1XML] Setting up direct dependencies cross-references
+[INFO][FMI1XML] Processing implementation element (co-simulation FMU detected)
+[VERBOSE][FMILIB] Parsing finished successfully
+[INFO][FMUCHK] Model name: CoupledClutches
+[INFO][FMUCHK] Model identifier: CoupledClutches
+[INFO][FMUCHK] Model GUID: {A61C9433-24E3-4C06-9D4F-0DBD576F2D7E}
+[INFO][FMUCHK] Model version: 
+[INFO][FMUCHK] FMU kind: CoSimulation_StandAlone
+[INFO][FMUCHK] The FMU contains:
+0 constants
+0 parameters
+0 discrete variables
+5 continuous variables
+1 inputs
+4 outputs
+0 internal variables
+0 variables with causality 'none'
+5 real variables
+0 integer variables
+0 enumeration variables
+0 boolean variables
+0 string variables
+
+[INFO][FMUCHK] Printing output file header
+[INFO][FMILIB] Loading 'win64' binary with 'standard32' platform types
+[VERBOSE][FMICAPI] Loaded FMU binary from .\CoupledClutches.dll
+[VERBOSE][FMICAPI] Loading functions for the co-simulation interface
+[VERBOSE][FMILIB] Successfully loaded all the interface functions
+[INFO][FMUCHK] Version returned from FMU:   1.0
+
+[VERBOSE][FMUCHK] Checker will instantiate the slave with 
+	FMU location ='file:///C:/Users/BASTIA~1.BIN/AppData/Local/Temp/fmutmpa01688'
+	MIME type = 'application/x-fmu-sharedlibrary'
+[INFO][FMUCHK] Initialized FMU for simulation starting at time 0
+[VERBOSE][FMUCHK] Writing simulation output for start time
+[VERBOSE][FMUCHK] Simulation step from time: 0 until: 0.01
+[VERBOSE][FMUCHK] Simulation step from time: 0.01 until: 0.02
+[VERBOSE][FMUCHK] Simulation step from time: 0.02 until: 0.03
+[VERBOSE][FMUCHK] Simulation step from time: 0.03 until: 0.04
+[VERBOSE][FMUCHK] Simulation step from time: 0.04 until: 0.05
+[VERBOSE][FMUCHK] Simulation step from time: 0.05 until: 0.06
+[VERBOSE][FMUCHK] Simulation step from time: 0.06 until: 0.07
+[VERBOSE][FMUCHK] Simulation step from time: 0.07 until: 0.08
+[VERBOSE][FMUCHK] Simulation step from time: 0.08 until: 0.09
+[VERBOSE][FMUCHK] Simulation step from time: 0.09 until: 0.1
+[VERBOSE][FMUCHK] Simulation step from time: 0.1 until: 0.11
+[VERBOSE][FMUCHK] Simulation step from time: 0.11 until: 0.12
+[VERBOSE][FMUCHK] Simulation step from time: 0.12 until: 0.13
+[VERBOSE][FMUCHK] Simulation step from time: 0.13 until: 0.14
+[VERBOSE][FMUCHK] Simulation step from time: 0.14 until: 0.15
+[VERBOSE][FMUCHK] Simulation step from time: 0.15 until: 0.16
+[VERBOSE][FMUCHK] Simulation step from time: 0.16 until: 0.17
+[VERBOSE][FMUCHK] Simulation step from time: 0.17 until: 0.18
+[VERBOSE][FMUCHK] Simulation step from time: 0.18 until: 0.19
+[VERBOSE][FMUCHK] Simulation step from time: 0.19 until: 0.2
+[VERBOSE][FMUCHK] Simulation step from time: 0.2 until: 0.21
+[VERBOSE][FMUCHK] Simulation step from time: 0.21 until: 0.22
+[VERBOSE][FMUCHK] Simulation step from time: 0.22 until: 0.23
+[VERBOSE][FMUCHK] Simulation step from time: 0.23 until: 0.24
+[VERBOSE][FMUCHK] Simulation step from time: 0.24 until: 0.25
+[VERBOSE][FMUCHK] Simulation step from time: 0.25 until: 0.26
+[VERBOSE][FMUCHK] Simulation step from time: 0.26 until: 0.27
+[VERBOSE][FMUCHK] Simulation step from time: 0.27 until: 0.28
+[VERBOSE][FMUCHK] Simulation step from time: 0.28 until: 0.29
+[VERBOSE][FMUCHK] Simulation step from time: 0.29 until: 0.3
+[VERBOSE][FMUCHK] Simulation step from time: 0.3 until: 0.31
+[VERBOSE][FMUCHK] Simulation step from time: 0.31 until: 0.32
+[VERBOSE][FMUCHK] Simulation step from time: 0.32 until: 0.33
+[VERBOSE][FMUCHK] Simulation step from time: 0.33 until: 0.34
+[VERBOSE][FMUCHK] Simulation step from time: 0.34 until: 0.35
+[VERBOSE][FMUCHK] Simulation step from time: 0.35 until: 0.36
+[VERBOSE][FMUCHK] Simulation step from time: 0.36 until: 0.37
+[VERBOSE][FMUCHK] Simulation step from time: 0.37 until: 0.38
+[VERBOSE][FMUCHK] Simulation step from time: 0.38 until: 0.39
+[VERBOSE][FMUCHK] Simulation step from time: 0.39 until: 0.4
+[VERBOSE][FMUCHK] Simulation step from time: 0.4 until: 0.41
+[VERBOSE][FMUCHK] Simulation step from time: 0.41 until: 0.42
+[VERBOSE][FMUCHK] Simulation step from time: 0.42 until: 0.43
+[VERBOSE][FMUCHK] Simulation step from time: 0.43 until: 0.44
+[VERBOSE][FMUCHK] Simulation step from time: 0.44 until: 0.45
+[VERBOSE][FMUCHK] Simulation step from time: 0.45 until: 0.46
+[VERBOSE][FMUCHK] Simulation step from time: 0.46 until: 0.47
+[VERBOSE][FMUCHK] Simulation step from time: 0.47 until: 0.48
+[VERBOSE][FMUCHK] Simulation step from time: 0.48 until: 0.49
+[VERBOSE][FMUCHK] Simulation step from time: 0.49 until: 0.5
+[VERBOSE][FMUCHK] Simulation step from time: 0.5 until: 0.51
+[VERBOSE][FMUCHK] Simulation step from time: 0.51 until: 0.52
+[VERBOSE][FMUCHK] Simulation step from time: 0.52 until: 0.53
+[VERBOSE][FMUCHK] Simulation step from time: 0.53 until: 0.54
+[VERBOSE][FMUCHK] Simulation step from time: 0.54 until: 0.55
+[VERBOSE][FMUCHK] Simulation step from time: 0.55 until: 0.56
+[VERBOSE][FMUCHK] Simulation step from time: 0.56 until: 0.57
+[VERBOSE][FMUCHK] Simulation step from time: 0.57 until: 0.58
+[VERBOSE][FMUCHK] Simulation step from time: 0.58 until: 0.59
+[VERBOSE][FMUCHK] Simulation step from time: 0.59 until: 0.6
+[VERBOSE][FMUCHK] Simulation step from time: 0.6 until: 0.61
+[VERBOSE][FMUCHK] Simulation step from time: 0.61 until: 0.62
+[VERBOSE][FMUCHK] Simulation step from time: 0.62 until: 0.63
+[VERBOSE][FMUCHK] Simulation step from time: 0.63 until: 0.64
+[VERBOSE][FMUCHK] Simulation step from time: 0.64 until: 0.65
+[VERBOSE][FMUCHK] Simulation step from time: 0.65 until: 0.66
+[VERBOSE][FMUCHK] Simulation step from time: 0.66 until: 0.67
+[VERBOSE][FMUCHK] Simulation step from time: 0.67 until: 0.68
+[VERBOSE][FMUCHK] Simulation step from time: 0.68 until: 0.69
+[VERBOSE][FMUCHK] Simulation step from time: 0.69 until: 0.7
+[VERBOSE][FMUCHK] Simulation step from time: 0.7 until: 0.71
+[VERBOSE][FMUCHK] Simulation step from time: 0.71 until: 0.72
+[VERBOSE][FMUCHK] Simulation step from time: 0.72 until: 0.73
+[VERBOSE][FMUCHK] Simulation step from time: 0.73 until: 0.74
+[VERBOSE][FMUCHK] Simulation step from time: 0.74 until: 0.75
+[VERBOSE][FMUCHK] Simulation step from time: 0.75 until: 0.76
+[VERBOSE][FMUCHK] Simulation step from time: 0.76 until: 0.77
+[VERBOSE][FMUCHK] Simulation step from time: 0.77 until: 0.78
+[VERBOSE][FMUCHK] Simulation step from time: 0.78 until: 0.79
+[VERBOSE][FMUCHK] Simulation step from time: 0.79 until: 0.8
+[VERBOSE][FMUCHK] Simulation step from time: 0.8 until: 0.81
+[VERBOSE][FMUCHK] Simulation step from time: 0.81 until: 0.82
+[VERBOSE][FMUCHK] Simulation step from time: 0.82 until: 0.83
+[VERBOSE][FMUCHK] Simulation step from time: 0.83 until: 0.84
+[VERBOSE][FMUCHK] Simulation step from time: 0.84 until: 0.85
+[VERBOSE][FMUCHK] Simulation step from time: 0.85 until: 0.86
+[VERBOSE][FMUCHK] Simulation step from time: 0.86 until: 0.87
+[VERBOSE][FMUCHK] Simulation step from time: 0.87 until: 0.88
+[VERBOSE][FMUCHK] Simulation step from time: 0.88 until: 0.89
+[VERBOSE][FMUCHK] Simulation step from time: 0.89 until: 0.9
+[VERBOSE][FMUCHK] Simulation step from time: 0.9 until: 0.91
+[VERBOSE][FMUCHK] Simulation step from time: 0.91 until: 0.92
+[VERBOSE][FMUCHK] Simulation step from time: 0.92 until: 0.93
+[VERBOSE][FMUCHK] Simulation step from time: 0.93 until: 0.94
+[VERBOSE][FMUCHK] Simulation step from time: 0.94 until: 0.95
+[VERBOSE][FMUCHK] Simulation step from time: 0.95 until: 0.96
+[VERBOSE][FMUCHK] Simulation step from time: 0.96 until: 0.97
+[VERBOSE][FMUCHK] Simulation step from time: 0.97 until: 0.98
+[VERBOSE][FMUCHK] Simulation step from time: 0.98 until: 0.99
+[VERBOSE][FMUCHK] Simulation step from time: 0.99 until: 1
+[VERBOSE][FMUCHK] Simulation step from time: 1 until: 1.01
+[VERBOSE][FMUCHK] Simulation step from time: 1.01 until: 1.02
+[VERBOSE][FMUCHK] Simulation step from time: 1.02 until: 1.03
+[VERBOSE][FMUCHK] Simulation step from time: 1.03 until: 1.04
+[VERBOSE][FMUCHK] Simulation step from time: 1.04 until: 1.05
+[VERBOSE][FMUCHK] Simulation step from time: 1.05 until: 1.06
+[VERBOSE][FMUCHK] Simulation step from time: 1.06 until: 1.07
+[VERBOSE][FMUCHK] Simulation step from time: 1.07 until: 1.08
+[VERBOSE][FMUCHK] Simulation step from time: 1.08 until: 1.09
+[VERBOSE][FMUCHK] Simulation step from time: 1.09 until: 1.1
+[VERBOSE][FMUCHK] Simulation step from time: 1.1 until: 1.11
+[VERBOSE][FMUCHK] Simulation step from time: 1.11 until: 1.12
+[VERBOSE][FMUCHK] Simulation step from time: 1.12 until: 1.13
+[VERBOSE][FMUCHK] Simulation step from time: 1.13 until: 1.14
+[VERBOSE][FMUCHK] Simulation step from time: 1.14 until: 1.15
+[VERBOSE][FMUCHK] Simulation step from time: 1.15 until: 1.16
+[VERBOSE][FMUCHK] Simulation step from time: 1.16 until: 1.17
+[VERBOSE][FMUCHK] Simulation step from time: 1.17 until: 1.18
+[VERBOSE][FMUCHK] Simulation step from time: 1.18 until: 1.19
+[VERBOSE][FMUCHK] Simulation step from time: 1.19 until: 1.2
+[VERBOSE][FMUCHK] Simulation step from time: 1.2 until: 1.21
+[VERBOSE][FMUCHK] Simulation step from time: 1.21 until: 1.22
+[VERBOSE][FMUCHK] Simulation step from time: 1.22 until: 1.23
+[VERBOSE][FMUCHK] Simulation step from time: 1.23 until: 1.24
+[VERBOSE][FMUCHK] Simulation step from time: 1.24 until: 1.25
+[VERBOSE][FMUCHK] Simulation step from time: 1.25 until: 1.26
+[VERBOSE][FMUCHK] Simulation step from time: 1.26 until: 1.27
+[VERBOSE][FMUCHK] Simulation step from time: 1.27 until: 1.28
+[VERBOSE][FMUCHK] Simulation step from time: 1.28 until: 1.29
+[VERBOSE][FMUCHK] Simulation step from time: 1.29 until: 1.3
+[VERBOSE][FMUCHK] Simulation step from time: 1.3 until: 1.31
+[VERBOSE][FMUCHK] Simulation step from time: 1.31 until: 1.32
+[VERBOSE][FMUCHK] Simulation step from time: 1.32 until: 1.33
+[VERBOSE][FMUCHK] Simulation step from time: 1.33 until: 1.34
+[VERBOSE][FMUCHK] Simulation step from time: 1.34 until: 1.35
+[VERBOSE][FMUCHK] Simulation step from time: 1.35 until: 1.36
+[VERBOSE][FMUCHK] Simulation step from time: 1.36 until: 1.37
+[VERBOSE][FMUCHK] Simulation step from time: 1.37 until: 1.38
+[VERBOSE][FMUCHK] Simulation step from time: 1.38 until: 1.39
+[VERBOSE][FMUCHK] Simulation step from time: 1.39 until: 1.4
+[VERBOSE][FMUCHK] Simulation step from time: 1.4 until: 1.41
+[VERBOSE][FMUCHK] Simulation step from time: 1.41 until: 1.42
+[VERBOSE][FMUCHK] Simulation step from time: 1.42 until: 1.43
+[VERBOSE][FMUCHK] Simulation step from time: 1.43 until: 1.44
+[VERBOSE][FMUCHK] Simulation step from time: 1.44 until: 1.45
+[VERBOSE][FMUCHK] Simulation step from time: 1.45 until: 1.46
+[VERBOSE][FMUCHK] Simulation step from time: 1.46 until: 1.47
+[VERBOSE][FMUCHK] Simulation step from time: 1.47 until: 1.48
+[VERBOSE][FMUCHK] Simulation step from time: 1.48 until: 1.49
+[VERBOSE][FMUCHK] Simulation step from time: 1.49 until: 1.5
+[INFO][FMUCHK] Simulation finished successfully at time 1.5
+	[FMU][Statistics][FMU status:OK] 
+	Valid Steps:	443
+	Invalid Steps:	0
+	RHS calls:	2170
+	Jacobian:	18
+	Jac groups:	4
+	Found Roots:	12
+	Time Events:	0
+	CodeGen:	1
+	Decomp:		0
+
+[VERBOSE][FMILIB] Releasing allocated library resources
+[VERBOSE][FMILIB] Releasing FMU CAPI interface
+[VERBOSE][FMICAPI] Successfully unloaded FMU binary
+[VERBOSE][JMPRT] Removing C:\Users\BASTIA~1.BIN\AppData\Local\Temp/fmutmpa01688
+FMU check summary:
+FMU reported:
+	0 warning(s) and error(s)
+Checker reported:
+	0 Warning(s)
+	0 Error(s)

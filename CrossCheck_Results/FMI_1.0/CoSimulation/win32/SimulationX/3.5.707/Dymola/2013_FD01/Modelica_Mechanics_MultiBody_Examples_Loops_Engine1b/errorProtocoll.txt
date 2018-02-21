@@ -1,0 +1,14 @@
+known problem in included solver regarding floating point exception and divisions by zero
+
+Time: 0s: Begin of event step.
+Time: 0s: End of event step.
+Time: 0s: Begin of event step.
+Time: 0s: End of event step.
+Time: 0s: Begin of event step.
+Time: 0s: End of event step.
+Time: 0s: End of event iteration (3).
+Time: 0s: End of event iteration after 3 event steps.
+Time: 0.01s: Discontinuity found (4).
+Time: 0.01s: Discontinuity found after 4 valid steps.
+Time: 0.01s: Begin of event step.
+Division by zero.

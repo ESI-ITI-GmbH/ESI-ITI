@@ -1,0 +1,1 @@
+Error during FMU Import: The FMI Output "outArrayChar3" is of type String. This is currently not supported by SimulationX.

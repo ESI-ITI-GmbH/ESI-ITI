@@ -1,0 +1,1 @@
+floating point exception: division by zero not handled in FMU function: FMI_DoStep(...)
